@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+"""DOCS-1"""
 import requests
 
 def number_of_subscribers(subreddit):
