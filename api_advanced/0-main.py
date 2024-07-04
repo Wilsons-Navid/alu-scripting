@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-0-main
+0-mainwork
 """
 import sys
 
